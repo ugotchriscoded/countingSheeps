@@ -14,7 +14,7 @@ function countSheeps(list){
     };
     
     if(sheeps == 0){
-        return("OOPS!!! Wolves have eaten some sheeps");
+        return("Oops!!! Wolves eaten Sheep");
     };
 
 }
